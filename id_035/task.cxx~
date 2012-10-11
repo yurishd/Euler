@@ -1,0 +1,22 @@
+#include <iostream>
+#include <set>
+#include <fstream>
+
+using namespace std;
+
+int main(int argc, char* argv[])
+{
+  long result = 0;
+  ifstream is;
+  long tmp;
+  set<long> primes;
+
+  is >> tmp;
+  while (is) {
+    primes.insert(tmp);
+    is >> tmp;
+  }
+
+  cout << result << endl;
+  return 0;
+}

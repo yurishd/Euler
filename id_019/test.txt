@@ -1,0 +1,1214 @@
+Jan 1sh, 1900 is Mon
+Feb 1sh, 1900 is Thu
+Mar 1sh, 1900 is Thu
+Apr 1sh, 1900 is Sun
+May 1sh, 1900 is Tue
+Jun 1sh, 1900 is Fri
+Jul 1sh, 1900 is Sun
+Aug 1sh, 1900 is Wed
+Sep 1sh, 1900 is Sat
+Oct 1sh, 1900 is Mon
+Nov 1sh, 1900 is Thu
+Dec 1sh, 1900 is Sat
+Jan 1sh, 1901 is Tue
+Feb 1sh, 1901 is Fri
+Mar 1sh, 1901 is Fri
+Apr 1sh, 1901 is Mon
+May 1sh, 1901 is Wed
+Jun 1sh, 1901 is Sat
+Jul 1sh, 1901 is Mon
+Aug 1sh, 1901 is Thu
+Sep 1sh, 1901 is Sun
+Oct 1sh, 1901 is Tue
+Nov 1sh, 1901 is Fri
+Dec 1sh, 1901 is Sun
+Jan 1sh, 1902 is Wed
+Feb 1sh, 1902 is Sat
+Mar 1sh, 1902 is Sat
+Apr 1sh, 1902 is Tue
+May 1sh, 1902 is Thu
+Jun 1sh, 1902 is Sun
+Jul 1sh, 1902 is Tue
+Aug 1sh, 1902 is Fri
+Sep 1sh, 1902 is Mon
+Oct 1sh, 1902 is Wed
+Nov 1sh, 1902 is Sat
+Dec 1sh, 1902 is Mon
+Jan 1sh, 1903 is Thu
+Feb 1sh, 1903 is Sun
+Mar 1sh, 1903 is Sun
+Apr 1sh, 1903 is Wed
+May 1sh, 1903 is Fri
+Jun 1sh, 1903 is Mon
+Jul 1sh, 1903 is Wed
+Aug 1sh, 1903 is Sat
+Sep 1sh, 1903 is Tue
+Oct 1sh, 1903 is Thu
+Nov 1sh, 1903 is Sun
+Dec 1sh, 1903 is Tue
+Jan 1sh, 1904 is Fri
+Feb 1sh, 1904 l is Mon
+Mar 1sh, 1904 l is Tue
+Apr 1sh, 1904 l is Fri
+May 1sh, 1904 l is Sun
+Jun 1sh, 1904 l is Wed
+Jul 1sh, 1904 l is Fri
+Aug 1sh, 1904 l is Mon
+Sep 1sh, 1904 l is Thu
+Oct 1sh, 1904 l is Sat
+Nov 1sh, 1904 l is Tue
+Dec 1sh, 1904 l is Thu
+Jan 1sh, 1905 l is Sun
+Feb 1sh, 1905 is Wed
+Mar 1sh, 1905 is Wed
+Apr 1sh, 1905 is Sat
+May 1sh, 1905 is Mon
+Jun 1sh, 1905 is Thu
+Jul 1sh, 1905 is Sat
+Aug 1sh, 1905 is Tue
+Sep 1sh, 1905 is Fri
+Oct 1sh, 1905 is Sun
+Nov 1sh, 1905 is Wed
+Dec 1sh, 1905 is Fri
+Jan 1sh, 1906 is Mon
+Feb 1sh, 1906 is Thu
+Mar 1sh, 1906 is Thu
+Apr 1sh, 1906 is Sun
+May 1sh, 1906 is Tue
+Jun 1sh, 1906 is Fri
+Jul 1sh, 1906 is Sun
+Aug 1sh, 1906 is Wed
+Sep 1sh, 1906 is Sat
+Oct 1sh, 1906 is Mon
+Nov 1sh, 1906 is Thu
+Dec 1sh, 1906 is Sat
+Jan 1sh, 1907 is Tue
+Feb 1sh, 1907 is Fri
+Mar 1sh, 1907 is Fri
+Apr 1sh, 1907 is Mon
+May 1sh, 1907 is Wed
+Jun 1sh, 1907 is Sat
+Jul 1sh, 1907 is Mon
+Aug 1sh, 1907 is Thu
+Sep 1sh, 1907 is Sun
+Oct 1sh, 1907 is Tue
+Nov 1sh, 1907 is Fri
+Dec 1sh, 1907 is Sun
+Jan 1sh, 1908 is Wed
+Feb 1sh, 1908 l is Sat
+Mar 1sh, 1908 l is Sun
+Apr 1sh, 1908 l is Wed
+May 1sh, 1908 l is Fri
+Jun 1sh, 1908 l is Mon
+Jul 1sh, 1908 l is Wed
+Aug 1sh, 1908 l is Sat
+Sep 1sh, 1908 l is Tue
+Oct 1sh, 1908 l is Thu
+Nov 1sh, 1908 l is Sun
+Dec 1sh, 1908 l is Tue
+Jan 1sh, 1909 l is Fri
+Feb 1sh, 1909 is Mon
+Mar 1sh, 1909 is Mon
+Apr 1sh, 1909 is Thu
+May 1sh, 1909 is Sat
+Jun 1sh, 1909 is Tue
+Jul 1sh, 1909 is Thu
+Aug 1sh, 1909 is Sun
+Sep 1sh, 1909 is Wed
+Oct 1sh, 1909 is Fri
+Nov 1sh, 1909 is Mon
+Dec 1sh, 1909 is Wed
+Jan 1sh, 1910 is Sat
+Feb 1sh, 1910 is Tue
+Mar 1sh, 1910 is Tue
+Apr 1sh, 1910 is Fri
+May 1sh, 1910 is Sun
+Jun 1sh, 1910 is Wed
+Jul 1sh, 1910 is Fri
+Aug 1sh, 1910 is Mon
+Sep 1sh, 1910 is Thu
+Oct 1sh, 1910 is Sat
+Nov 1sh, 1910 is Tue
+Dec 1sh, 1910 is Thu
+Jan 1sh, 1911 is Sun
+Feb 1sh, 1911 is Wed
+Mar 1sh, 1911 is Wed
+Apr 1sh, 1911 is Sat
+May 1sh, 1911 is Mon
+Jun 1sh, 1911 is Thu
+Jul 1sh, 1911 is Sat
+Aug 1sh, 1911 is Tue
+Sep 1sh, 1911 is Fri
+Oct 1sh, 1911 is Sun
+Nov 1sh, 1911 is Wed
+Dec 1sh, 1911 is Fri
+Jan 1sh, 1912 is Mon
+Feb 1sh, 1912 l is Thu
+Mar 1sh, 1912 l is Fri
+Apr 1sh, 1912 l is Mon
+May 1sh, 1912 l is Wed
+Jun 1sh, 1912 l is Sat
+Jul 1sh, 1912 l is Mon
+Aug 1sh, 1912 l is Thu
+Sep 1sh, 1912 l is Sun
+Oct 1sh, 1912 l is Tue
+Nov 1sh, 1912 l is Fri
+Dec 1sh, 1912 l is Sun
+Jan 1sh, 1913 l is Wed
+Feb 1sh, 1913 is Sat
+Mar 1sh, 1913 is Sat
+Apr 1sh, 1913 is Tue
+May 1sh, 1913 is Thu
+Jun 1sh, 1913 is Sun
+Jul 1sh, 1913 is Tue
+Aug 1sh, 1913 is Fri
+Sep 1sh, 1913 is Mon
+Oct 1sh, 1913 is Wed
+Nov 1sh, 1913 is Sat
+Dec 1sh, 1913 is Mon
+Jan 1sh, 1914 is Thu
+Feb 1sh, 1914 is Sun
+Mar 1sh, 1914 is Sun
+Apr 1sh, 1914 is Wed
+May 1sh, 1914 is Fri
+Jun 1sh, 1914 is Mon
+Jul 1sh, 1914 is Wed
+Aug 1sh, 1914 is Sat
+Sep 1sh, 1914 is Tue
+Oct 1sh, 1914 is Thu
+Nov 1sh, 1914 is Sun
+Dec 1sh, 1914 is Tue
+Jan 1sh, 1915 is Fri
+Feb 1sh, 1915 is Mon
+Mar 1sh, 1915 is Mon
+Apr 1sh, 1915 is Thu
+May 1sh, 1915 is Sat
+Jun 1sh, 1915 is Tue
+Jul 1sh, 1915 is Thu
+Aug 1sh, 1915 is Sun
+Sep 1sh, 1915 is Wed
+Oct 1sh, 1915 is Fri
+Nov 1sh, 1915 is Mon
+Dec 1sh, 1915 is Wed
+Jan 1sh, 1916 is Sat
+Feb 1sh, 1916 l is Tue
+Mar 1sh, 1916 l is Wed
+Apr 1sh, 1916 l is Sat
+May 1sh, 1916 l is Mon
+Jun 1sh, 1916 l is Thu
+Jul 1sh, 1916 l is Sat
+Aug 1sh, 1916 l is Tue
+Sep 1sh, 1916 l is Fri
+Oct 1sh, 1916 l is Sun
+Nov 1sh, 1916 l is Wed
+Dec 1sh, 1916 l is Fri
+Jan 1sh, 1917 l is Mon
+Feb 1sh, 1917 is Thu
+Mar 1sh, 1917 is Thu
+Apr 1sh, 1917 is Sun
+May 1sh, 1917 is Tue
+Jun 1sh, 1917 is Fri
+Jul 1sh, 1917 is Sun
+Aug 1sh, 1917 is Wed
+Sep 1sh, 1917 is Sat
+Oct 1sh, 1917 is Mon
+Nov 1sh, 1917 is Thu
+Dec 1sh, 1917 is Sat
+Jan 1sh, 1918 is Tue
+Feb 1sh, 1918 is Fri
+Mar 1sh, 1918 is Fri
+Apr 1sh, 1918 is Mon
+May 1sh, 1918 is Wed
+Jun 1sh, 1918 is Sat
+Jul 1sh, 1918 is Mon
+Aug 1sh, 1918 is Thu
+Sep 1sh, 1918 is Sun
+Oct 1sh, 1918 is Tue
+Nov 1sh, 1918 is Fri
+Dec 1sh, 1918 is Sun
+Jan 1sh, 1919 is Wed
+Feb 1sh, 1919 is Sat
+Mar 1sh, 1919 is Sat
+Apr 1sh, 1919 is Tue
+May 1sh, 1919 is Thu
+Jun 1sh, 1919 is Sun
+Jul 1sh, 1919 is Tue
+Aug 1sh, 1919 is Fri
+Sep 1sh, 1919 is Mon
+Oct 1sh, 1919 is Wed
+Nov 1sh, 1919 is Sat
+Dec 1sh, 1919 is Mon
+Jan 1sh, 1920 is Thu
+Feb 1sh, 1920 l is Sun
+Mar 1sh, 1920 l is Mon
+Apr 1sh, 1920 l is Thu
+May 1sh, 1920 l is Sat
+Jun 1sh, 1920 l is Tue
+Jul 1sh, 1920 l is Thu
+Aug 1sh, 1920 l is Sun
+Sep 1sh, 1920 l is Wed
+Oct 1sh, 1920 l is Fri
+Nov 1sh, 1920 l is Mon
+Dec 1sh, 1920 l is Wed
+Jan 1sh, 1921 l is Sat
+Feb 1sh, 1921 is Tue
+Mar 1sh, 1921 is Tue
+Apr 1sh, 1921 is Fri
+May 1sh, 1921 is Sun
+Jun 1sh, 1921 is Wed
+Jul 1sh, 1921 is Fri
+Aug 1sh, 1921 is Mon
+Sep 1sh, 1921 is Thu
+Oct 1sh, 1921 is Sat
+Nov 1sh, 1921 is Tue
+Dec 1sh, 1921 is Thu
+Jan 1sh, 1922 is Sun
+Feb 1sh, 1922 is Wed
+Mar 1sh, 1922 is Wed
+Apr 1sh, 1922 is Sat
+May 1sh, 1922 is Mon
+Jun 1sh, 1922 is Thu
+Jul 1sh, 1922 is Sat
+Aug 1sh, 1922 is Tue
+Sep 1sh, 1922 is Fri
+Oct 1sh, 1922 is Sun
+Nov 1sh, 1922 is Wed
+Dec 1sh, 1922 is Fri
+Jan 1sh, 1923 is Mon
+Feb 1sh, 1923 is Thu
+Mar 1sh, 1923 is Thu
+Apr 1sh, 1923 is Sun
+May 1sh, 1923 is Tue
+Jun 1sh, 1923 is Fri
+Jul 1sh, 1923 is Sun
+Aug 1sh, 1923 is Wed
+Sep 1sh, 1923 is Sat
+Oct 1sh, 1923 is Mon
+Nov 1sh, 1923 is Thu
+Dec 1sh, 1923 is Sat
+Jan 1sh, 1924 is Tue
+Feb 1sh, 1924 l is Fri
+Mar 1sh, 1924 l is Sat
+Apr 1sh, 1924 l is Tue
+May 1sh, 1924 l is Thu
+Jun 1sh, 1924 l is Sun
+Jul 1sh, 1924 l is Tue
+Aug 1sh, 1924 l is Fri
+Sep 1sh, 1924 l is Mon
+Oct 1sh, 1924 l is Wed
+Nov 1sh, 1924 l is Sat
+Dec 1sh, 1924 l is Mon
+Jan 1sh, 1925 l is Thu
+Feb 1sh, 1925 is Sun
+Mar 1sh, 1925 is Sun
+Apr 1sh, 1925 is Wed
+May 1sh, 1925 is Fri
+Jun 1sh, 1925 is Mon
+Jul 1sh, 1925 is Wed
+Aug 1sh, 1925 is Sat
+Sep 1sh, 1925 is Tue
+Oct 1sh, 1925 is Thu
+Nov 1sh, 1925 is Sun
+Dec 1sh, 1925 is Tue
+Jan 1sh, 1926 is Fri
+Feb 1sh, 1926 is Mon
+Mar 1sh, 1926 is Mon
+Apr 1sh, 1926 is Thu
+May 1sh, 1926 is Sat
+Jun 1sh, 1926 is Tue
+Jul 1sh, 1926 is Thu
+Aug 1sh, 1926 is Sun
+Sep 1sh, 1926 is Wed
+Oct 1sh, 1926 is Fri
+Nov 1sh, 1926 is Mon
+Dec 1sh, 1926 is Wed
+Jan 1sh, 1927 is Sat
+Feb 1sh, 1927 is Tue
+Mar 1sh, 1927 is Tue
+Apr 1sh, 1927 is Fri
+May 1sh, 1927 is Sun
+Jun 1sh, 1927 is Wed
+Jul 1sh, 1927 is Fri
+Aug 1sh, 1927 is Mon
+Sep 1sh, 1927 is Thu
+Oct 1sh, 1927 is Sat
+Nov 1sh, 1927 is Tue
+Dec 1sh, 1927 is Thu
+Jan 1sh, 1928 is Sun
+Feb 1sh, 1928 l is Wed
+Mar 1sh, 1928 l is Thu
+Apr 1sh, 1928 l is Sun
+May 1sh, 1928 l is Tue
+Jun 1sh, 1928 l is Fri
+Jul 1sh, 1928 l is Sun
+Aug 1sh, 1928 l is Wed
+Sep 1sh, 1928 l is Sat
+Oct 1sh, 1928 l is Mon
+Nov 1sh, 1928 l is Thu
+Dec 1sh, 1928 l is Sat
+Jan 1sh, 1929 l is Tue
+Feb 1sh, 1929 is Fri
+Mar 1sh, 1929 is Fri
+Apr 1sh, 1929 is Mon
+May 1sh, 1929 is Wed
+Jun 1sh, 1929 is Sat
+Jul 1sh, 1929 is Mon
+Aug 1sh, 1929 is Thu
+Sep 1sh, 1929 is Sun
+Oct 1sh, 1929 is Tue
+Nov 1sh, 1929 is Fri
+Dec 1sh, 1929 is Sun
+Jan 1sh, 1930 is Wed
+Feb 1sh, 1930 is Sat
+Mar 1sh, 1930 is Sat
+Apr 1sh, 1930 is Tue
+May 1sh, 1930 is Thu
+Jun 1sh, 1930 is Sun
+Jul 1sh, 1930 is Tue
+Aug 1sh, 1930 is Fri
+Sep 1sh, 1930 is Mon
+Oct 1sh, 1930 is Wed
+Nov 1sh, 1930 is Sat
+Dec 1sh, 1930 is Mon
+Jan 1sh, 1931 is Thu
+Feb 1sh, 1931 is Sun
+Mar 1sh, 1931 is Sun
+Apr 1sh, 1931 is Wed
+May 1sh, 1931 is Fri
+Jun 1sh, 1931 is Mon
+Jul 1sh, 1931 is Wed
+Aug 1sh, 1931 is Sat
+Sep 1sh, 1931 is Tue
+Oct 1sh, 1931 is Thu
+Nov 1sh, 1931 is Sun
+Dec 1sh, 1931 is Tue
+Jan 1sh, 1932 is Fri
+Feb 1sh, 1932 l is Mon
+Mar 1sh, 1932 l is Tue
+Apr 1sh, 1932 l is Fri
+May 1sh, 1932 l is Sun
+Jun 1sh, 1932 l is Wed
+Jul 1sh, 1932 l is Fri
+Aug 1sh, 1932 l is Mon
+Sep 1sh, 1932 l is Thu
+Oct 1sh, 1932 l is Sat
+Nov 1sh, 1932 l is Tue
+Dec 1sh, 1932 l is Thu
+Jan 1sh, 1933 l is Sun
+Feb 1sh, 1933 is Wed
+Mar 1sh, 1933 is Wed
+Apr 1sh, 1933 is Sat
+May 1sh, 1933 is Mon
+Jun 1sh, 1933 is Thu
+Jul 1sh, 1933 is Sat
+Aug 1sh, 1933 is Tue
+Sep 1sh, 1933 is Fri
+Oct 1sh, 1933 is Sun
+Nov 1sh, 1933 is Wed
+Dec 1sh, 1933 is Fri
+Jan 1sh, 1934 is Mon
+Feb 1sh, 1934 is Thu
+Mar 1sh, 1934 is Thu
+Apr 1sh, 1934 is Sun
+May 1sh, 1934 is Tue
+Jun 1sh, 1934 is Fri
+Jul 1sh, 1934 is Sun
+Aug 1sh, 1934 is Wed
+Sep 1sh, 1934 is Sat
+Oct 1sh, 1934 is Mon
+Nov 1sh, 1934 is Thu
+Dec 1sh, 1934 is Sat
+Jan 1sh, 1935 is Tue
+Feb 1sh, 1935 is Fri
+Mar 1sh, 1935 is Fri
+Apr 1sh, 1935 is Mon
+May 1sh, 1935 is Wed
+Jun 1sh, 1935 is Sat
+Jul 1sh, 1935 is Mon
+Aug 1sh, 1935 is Thu
+Sep 1sh, 1935 is Sun
+Oct 1sh, 1935 is Tue
+Nov 1sh, 1935 is Fri
+Dec 1sh, 1935 is Sun
+Jan 1sh, 1936 is Wed
+Feb 1sh, 1936 l is Sat
+Mar 1sh, 1936 l is Sun
+Apr 1sh, 1936 l is Wed
+May 1sh, 1936 l is Fri
+Jun 1sh, 1936 l is Mon
+Jul 1sh, 1936 l is Wed
+Aug 1sh, 1936 l is Sat
+Sep 1sh, 1936 l is Tue
+Oct 1sh, 1936 l is Thu
+Nov 1sh, 1936 l is Sun
+Dec 1sh, 1936 l is Tue
+Jan 1sh, 1937 l is Fri
+Feb 1sh, 1937 is Mon
+Mar 1sh, 1937 is Mon
+Apr 1sh, 1937 is Thu
+May 1sh, 1937 is Sat
+Jun 1sh, 1937 is Tue
+Jul 1sh, 1937 is Thu
+Aug 1sh, 1937 is Sun
+Sep 1sh, 1937 is Wed
+Oct 1sh, 1937 is Fri
+Nov 1sh, 1937 is Mon
+Dec 1sh, 1937 is Wed
+Jan 1sh, 1938 is Sat
+Feb 1sh, 1938 is Tue
+Mar 1sh, 1938 is Tue
+Apr 1sh, 1938 is Fri
+May 1sh, 1938 is Sun
+Jun 1sh, 1938 is Wed
+Jul 1sh, 1938 is Fri
+Aug 1sh, 1938 is Mon
+Sep 1sh, 1938 is Thu
+Oct 1sh, 1938 is Sat
+Nov 1sh, 1938 is Tue
+Dec 1sh, 1938 is Thu
+Jan 1sh, 1939 is Sun
+Feb 1sh, 1939 is Wed
+Mar 1sh, 1939 is Wed
+Apr 1sh, 1939 is Sat
+May 1sh, 1939 is Mon
+Jun 1sh, 1939 is Thu
+Jul 1sh, 1939 is Sat
+Aug 1sh, 1939 is Tue
+Sep 1sh, 1939 is Fri
+Oct 1sh, 1939 is Sun
+Nov 1sh, 1939 is Wed
+Dec 1sh, 1939 is Fri
+Jan 1sh, 1940 is Mon
+Feb 1sh, 1940 l is Thu
+Mar 1sh, 1940 l is Fri
+Apr 1sh, 1940 l is Mon
+May 1sh, 1940 l is Wed
+Jun 1sh, 1940 l is Sat
+Jul 1sh, 1940 l is Mon
+Aug 1sh, 1940 l is Thu
+Sep 1sh, 1940 l is Sun
+Oct 1sh, 1940 l is Tue
+Nov 1sh, 1940 l is Fri
+Dec 1sh, 1940 l is Sun
+Jan 1sh, 1941 l is Wed
+Feb 1sh, 1941 is Sat
+Mar 1sh, 1941 is Sat
+Apr 1sh, 1941 is Tue
+May 1sh, 1941 is Thu
+Jun 1sh, 1941 is Sun
+Jul 1sh, 1941 is Tue
+Aug 1sh, 1941 is Fri
+Sep 1sh, 1941 is Mon
+Oct 1sh, 1941 is Wed
+Nov 1sh, 1941 is Sat
+Dec 1sh, 1941 is Mon
+Jan 1sh, 1942 is Thu
+Feb 1sh, 1942 is Sun
+Mar 1sh, 1942 is Sun
+Apr 1sh, 1942 is Wed
+May 1sh, 1942 is Fri
+Jun 1sh, 1942 is Mon
+Jul 1sh, 1942 is Wed
+Aug 1sh, 1942 is Sat
+Sep 1sh, 1942 is Tue
+Oct 1sh, 1942 is Thu
+Nov 1sh, 1942 is Sun
+Dec 1sh, 1942 is Tue
+Jan 1sh, 1943 is Fri
+Feb 1sh, 1943 is Mon
+Mar 1sh, 1943 is Mon
+Apr 1sh, 1943 is Thu
+May 1sh, 1943 is Sat
+Jun 1sh, 1943 is Tue
+Jul 1sh, 1943 is Thu
+Aug 1sh, 1943 is Sun
+Sep 1sh, 1943 is Wed
+Oct 1sh, 1943 is Fri
+Nov 1sh, 1943 is Mon
+Dec 1sh, 1943 is Wed
+Jan 1sh, 1944 is Sat
+Feb 1sh, 1944 l is Tue
+Mar 1sh, 1944 l is Wed
+Apr 1sh, 1944 l is Sat
+May 1sh, 1944 l is Mon
+Jun 1sh, 1944 l is Thu
+Jul 1sh, 1944 l is Sat
+Aug 1sh, 1944 l is Tue
+Sep 1sh, 1944 l is Fri
+Oct 1sh, 1944 l is Sun
+Nov 1sh, 1944 l is Wed
+Dec 1sh, 1944 l is Fri
+Jan 1sh, 1945 l is Mon
+Feb 1sh, 1945 is Thu
+Mar 1sh, 1945 is Thu
+Apr 1sh, 1945 is Sun
+May 1sh, 1945 is Tue
+Jun 1sh, 1945 is Fri
+Jul 1sh, 1945 is Sun
+Aug 1sh, 1945 is Wed
+Sep 1sh, 1945 is Sat
+Oct 1sh, 1945 is Mon
+Nov 1sh, 1945 is Thu
+Dec 1sh, 1945 is Sat
+Jan 1sh, 1946 is Tue
+Feb 1sh, 1946 is Fri
+Mar 1sh, 1946 is Fri
+Apr 1sh, 1946 is Mon
+May 1sh, 1946 is Wed
+Jun 1sh, 1946 is Sat
+Jul 1sh, 1946 is Mon
+Aug 1sh, 1946 is Thu
+Sep 1sh, 1946 is Sun
+Oct 1sh, 1946 is Tue
+Nov 1sh, 1946 is Fri
+Dec 1sh, 1946 is Sun
+Jan 1sh, 1947 is Wed
+Feb 1sh, 1947 is Sat
+Mar 1sh, 1947 is Sat
+Apr 1sh, 1947 is Tue
+May 1sh, 1947 is Thu
+Jun 1sh, 1947 is Sun
+Jul 1sh, 1947 is Tue
+Aug 1sh, 1947 is Fri
+Sep 1sh, 1947 is Mon
+Oct 1sh, 1947 is Wed
+Nov 1sh, 1947 is Sat
+Dec 1sh, 1947 is Mon
+Jan 1sh, 1948 is Thu
+Feb 1sh, 1948 l is Sun
+Mar 1sh, 1948 l is Mon
+Apr 1sh, 1948 l is Thu
+May 1sh, 1948 l is Sat
+Jun 1sh, 1948 l is Tue
+Jul 1sh, 1948 l is Thu
+Aug 1sh, 1948 l is Sun
+Sep 1sh, 1948 l is Wed
+Oct 1sh, 1948 l is Fri
+Nov 1sh, 1948 l is Mon
+Dec 1sh, 1948 l is Wed
+Jan 1sh, 1949 l is Sat
+Feb 1sh, 1949 is Tue
+Mar 1sh, 1949 is Tue
+Apr 1sh, 1949 is Fri
+May 1sh, 1949 is Sun
+Jun 1sh, 1949 is Wed
+Jul 1sh, 1949 is Fri
+Aug 1sh, 1949 is Mon
+Sep 1sh, 1949 is Thu
+Oct 1sh, 1949 is Sat
+Nov 1sh, 1949 is Tue
+Dec 1sh, 1949 is Thu
+Jan 1sh, 1950 is Sun
+Feb 1sh, 1950 is Wed
+Mar 1sh, 1950 is Wed
+Apr 1sh, 1950 is Sat
+May 1sh, 1950 is Mon
+Jun 1sh, 1950 is Thu
+Jul 1sh, 1950 is Sat
+Aug 1sh, 1950 is Tue
+Sep 1sh, 1950 is Fri
+Oct 1sh, 1950 is Sun
+Nov 1sh, 1950 is Wed
+Dec 1sh, 1950 is Fri
+Jan 1sh, 1951 is Mon
+Feb 1sh, 1951 is Thu
+Mar 1sh, 1951 is Thu
+Apr 1sh, 1951 is Sun
+May 1sh, 1951 is Tue
+Jun 1sh, 1951 is Fri
+Jul 1sh, 1951 is Sun
+Aug 1sh, 1951 is Wed
+Sep 1sh, 1951 is Sat
+Oct 1sh, 1951 is Mon
+Nov 1sh, 1951 is Thu
+Dec 1sh, 1951 is Sat
+Jan 1sh, 1952 is Tue
+Feb 1sh, 1952 l is Fri
+Mar 1sh, 1952 l is Sat
+Apr 1sh, 1952 l is Tue
+May 1sh, 1952 l is Thu
+Jun 1sh, 1952 l is Sun
+Jul 1sh, 1952 l is Tue
+Aug 1sh, 1952 l is Fri
+Sep 1sh, 1952 l is Mon
+Oct 1sh, 1952 l is Wed
+Nov 1sh, 1952 l is Sat
+Dec 1sh, 1952 l is Mon
+Jan 1sh, 1953 l is Thu
+Feb 1sh, 1953 is Sun
+Mar 1sh, 1953 is Sun
+Apr 1sh, 1953 is Wed
+May 1sh, 1953 is Fri
+Jun 1sh, 1953 is Mon
+Jul 1sh, 1953 is Wed
+Aug 1sh, 1953 is Sat
+Sep 1sh, 1953 is Tue
+Oct 1sh, 1953 is Thu
+Nov 1sh, 1953 is Sun
+Dec 1sh, 1953 is Tue
+Jan 1sh, 1954 is Fri
+Feb 1sh, 1954 is Mon
+Mar 1sh, 1954 is Mon
+Apr 1sh, 1954 is Thu
+May 1sh, 1954 is Sat
+Jun 1sh, 1954 is Tue
+Jul 1sh, 1954 is Thu
+Aug 1sh, 1954 is Sun
+Sep 1sh, 1954 is Wed
+Oct 1sh, 1954 is Fri
+Nov 1sh, 1954 is Mon
+Dec 1sh, 1954 is Wed
+Jan 1sh, 1955 is Sat
+Feb 1sh, 1955 is Tue
+Mar 1sh, 1955 is Tue
+Apr 1sh, 1955 is Fri
+May 1sh, 1955 is Sun
+Jun 1sh, 1955 is Wed
+Jul 1sh, 1955 is Fri
+Aug 1sh, 1955 is Mon
+Sep 1sh, 1955 is Thu
+Oct 1sh, 1955 is Sat
+Nov 1sh, 1955 is Tue
+Dec 1sh, 1955 is Thu
+Jan 1sh, 1956 is Sun
+Feb 1sh, 1956 l is Wed
+Mar 1sh, 1956 l is Thu
+Apr 1sh, 1956 l is Sun
+May 1sh, 1956 l is Tue
+Jun 1sh, 1956 l is Fri
+Jul 1sh, 1956 l is Sun
+Aug 1sh, 1956 l is Wed
+Sep 1sh, 1956 l is Sat
+Oct 1sh, 1956 l is Mon
+Nov 1sh, 1956 l is Thu
+Dec 1sh, 1956 l is Sat
+Jan 1sh, 1957 l is Tue
+Feb 1sh, 1957 is Fri
+Mar 1sh, 1957 is Fri
+Apr 1sh, 1957 is Mon
+May 1sh, 1957 is Wed
+Jun 1sh, 1957 is Sat
+Jul 1sh, 1957 is Mon
+Aug 1sh, 1957 is Thu
+Sep 1sh, 1957 is Sun
+Oct 1sh, 1957 is Tue
+Nov 1sh, 1957 is Fri
+Dec 1sh, 1957 is Sun
+Jan 1sh, 1958 is Wed
+Feb 1sh, 1958 is Sat
+Mar 1sh, 1958 is Sat
+Apr 1sh, 1958 is Tue
+May 1sh, 1958 is Thu
+Jun 1sh, 1958 is Sun
+Jul 1sh, 1958 is Tue
+Aug 1sh, 1958 is Fri
+Sep 1sh, 1958 is Mon
+Oct 1sh, 1958 is Wed
+Nov 1sh, 1958 is Sat
+Dec 1sh, 1958 is Mon
+Jan 1sh, 1959 is Thu
+Feb 1sh, 1959 is Sun
+Mar 1sh, 1959 is Sun
+Apr 1sh, 1959 is Wed
+May 1sh, 1959 is Fri
+Jun 1sh, 1959 is Mon
+Jul 1sh, 1959 is Wed
+Aug 1sh, 1959 is Sat
+Sep 1sh, 1959 is Tue
+Oct 1sh, 1959 is Thu
+Nov 1sh, 1959 is Sun
+Dec 1sh, 1959 is Tue
+Jan 1sh, 1960 is Fri
+Feb 1sh, 1960 l is Mon
+Mar 1sh, 1960 l is Tue
+Apr 1sh, 1960 l is Fri
+May 1sh, 1960 l is Sun
+Jun 1sh, 1960 l is Wed
+Jul 1sh, 1960 l is Fri
+Aug 1sh, 1960 l is Mon
+Sep 1sh, 1960 l is Thu
+Oct 1sh, 1960 l is Sat
+Nov 1sh, 1960 l is Tue
+Dec 1sh, 1960 l is Thu
+Jan 1sh, 1961 l is Sun
+Feb 1sh, 1961 is Wed
+Mar 1sh, 1961 is Wed
+Apr 1sh, 1961 is Sat
+May 1sh, 1961 is Mon
+Jun 1sh, 1961 is Thu
+Jul 1sh, 1961 is Sat
+Aug 1sh, 1961 is Tue
+Sep 1sh, 1961 is Fri
+Oct 1sh, 1961 is Sun
+Nov 1sh, 1961 is Wed
+Dec 1sh, 1961 is Fri
+Jan 1sh, 1962 is Mon
+Feb 1sh, 1962 is Thu
+Mar 1sh, 1962 is Thu
+Apr 1sh, 1962 is Sun
+May 1sh, 1962 is Tue
+Jun 1sh, 1962 is Fri
+Jul 1sh, 1962 is Sun
+Aug 1sh, 1962 is Wed
+Sep 1sh, 1962 is Sat
+Oct 1sh, 1962 is Mon
+Nov 1sh, 1962 is Thu
+Dec 1sh, 1962 is Sat
+Jan 1sh, 1963 is Tue
+Feb 1sh, 1963 is Fri
+Mar 1sh, 1963 is Fri
+Apr 1sh, 1963 is Mon
+May 1sh, 1963 is Wed
+Jun 1sh, 1963 is Sat
+Jul 1sh, 1963 is Mon
+Aug 1sh, 1963 is Thu
+Sep 1sh, 1963 is Sun
+Oct 1sh, 1963 is Tue
+Nov 1sh, 1963 is Fri
+Dec 1sh, 1963 is Sun
+Jan 1sh, 1964 is Wed
+Feb 1sh, 1964 l is Sat
+Mar 1sh, 1964 l is Sun
+Apr 1sh, 1964 l is Wed
+May 1sh, 1964 l is Fri
+Jun 1sh, 1964 l is Mon
+Jul 1sh, 1964 l is Wed
+Aug 1sh, 1964 l is Sat
+Sep 1sh, 1964 l is Tue
+Oct 1sh, 1964 l is Thu
+Nov 1sh, 1964 l is Sun
+Dec 1sh, 1964 l is Tue
+Jan 1sh, 1965 l is Fri
+Feb 1sh, 1965 is Mon
+Mar 1sh, 1965 is Mon
+Apr 1sh, 1965 is Thu
+May 1sh, 1965 is Sat
+Jun 1sh, 1965 is Tue
+Jul 1sh, 1965 is Thu
+Aug 1sh, 1965 is Sun
+Sep 1sh, 1965 is Wed
+Oct 1sh, 1965 is Fri
+Nov 1sh, 1965 is Mon
+Dec 1sh, 1965 is Wed
+Jan 1sh, 1966 is Sat
+Feb 1sh, 1966 is Tue
+Mar 1sh, 1966 is Tue
+Apr 1sh, 1966 is Fri
+May 1sh, 1966 is Sun
+Jun 1sh, 1966 is Wed
+Jul 1sh, 1966 is Fri
+Aug 1sh, 1966 is Mon
+Sep 1sh, 1966 is Thu
+Oct 1sh, 1966 is Sat
+Nov 1sh, 1966 is Tue
+Dec 1sh, 1966 is Thu
+Jan 1sh, 1967 is Sun
+Feb 1sh, 1967 is Wed
+Mar 1sh, 1967 is Wed
+Apr 1sh, 1967 is Sat
+May 1sh, 1967 is Mon
+Jun 1sh, 1967 is Thu
+Jul 1sh, 1967 is Sat
+Aug 1sh, 1967 is Tue
+Sep 1sh, 1967 is Fri
+Oct 1sh, 1967 is Sun
+Nov 1sh, 1967 is Wed
+Dec 1sh, 1967 is Fri
+Jan 1sh, 1968 is Mon
+Feb 1sh, 1968 l is Thu
+Mar 1sh, 1968 l is Fri
+Apr 1sh, 1968 l is Mon
+May 1sh, 1968 l is Wed
+Jun 1sh, 1968 l is Sat
+Jul 1sh, 1968 l is Mon
+Aug 1sh, 1968 l is Thu
+Sep 1sh, 1968 l is Sun
+Oct 1sh, 1968 l is Tue
+Nov 1sh, 1968 l is Fri
+Dec 1sh, 1968 l is Sun
+Jan 1sh, 1969 l is Wed
+Feb 1sh, 1969 is Sat
+Mar 1sh, 1969 is Sat
+Apr 1sh, 1969 is Tue
+May 1sh, 1969 is Thu
+Jun 1sh, 1969 is Sun
+Jul 1sh, 1969 is Tue
+Aug 1sh, 1969 is Fri
+Sep 1sh, 1969 is Mon
+Oct 1sh, 1969 is Wed
+Nov 1sh, 1969 is Sat
+Dec 1sh, 1969 is Mon
+Jan 1sh, 1970 is Thu
+Feb 1sh, 1970 is Sun
+Mar 1sh, 1970 is Sun
+Apr 1sh, 1970 is Wed
+May 1sh, 1970 is Fri
+Jun 1sh, 1970 is Mon
+Jul 1sh, 1970 is Wed
+Aug 1sh, 1970 is Sat
+Sep 1sh, 1970 is Tue
+Oct 1sh, 1970 is Thu
+Nov 1sh, 1970 is Sun
+Dec 1sh, 1970 is Tue
+Jan 1sh, 1971 is Fri
+Feb 1sh, 1971 is Mon
+Mar 1sh, 1971 is Mon
+Apr 1sh, 1971 is Thu
+May 1sh, 1971 is Sat
+Jun 1sh, 1971 is Tue
+Jul 1sh, 1971 is Thu
+Aug 1sh, 1971 is Sun
+Sep 1sh, 1971 is Wed
+Oct 1sh, 1971 is Fri
+Nov 1sh, 1971 is Mon
+Dec 1sh, 1971 is Wed
+Jan 1sh, 1972 is Sat
+Feb 1sh, 1972 l is Tue
+Mar 1sh, 1972 l is Wed
+Apr 1sh, 1972 l is Sat
+May 1sh, 1972 l is Mon
+Jun 1sh, 1972 l is Thu
+Jul 1sh, 1972 l is Sat
+Aug 1sh, 1972 l is Tue
+Sep 1sh, 1972 l is Fri
+Oct 1sh, 1972 l is Sun
+Nov 1sh, 1972 l is Wed
+Dec 1sh, 1972 l is Fri
+Jan 1sh, 1973 l is Mon
+Feb 1sh, 1973 is Thu
+Mar 1sh, 1973 is Thu
+Apr 1sh, 1973 is Sun
+May 1sh, 1973 is Tue
+Jun 1sh, 1973 is Fri
+Jul 1sh, 1973 is Sun
+Aug 1sh, 1973 is Wed
+Sep 1sh, 1973 is Sat
+Oct 1sh, 1973 is Mon
+Nov 1sh, 1973 is Thu
+Dec 1sh, 1973 is Sat
+Jan 1sh, 1974 is Tue
+Feb 1sh, 1974 is Fri
+Mar 1sh, 1974 is Fri
+Apr 1sh, 1974 is Mon
+May 1sh, 1974 is Wed
+Jun 1sh, 1974 is Sat
+Jul 1sh, 1974 is Mon
+Aug 1sh, 1974 is Thu
+Sep 1sh, 1974 is Sun
+Oct 1sh, 1974 is Tue
+Nov 1sh, 1974 is Fri
+Dec 1sh, 1974 is Sun
+Jan 1sh, 1975 is Wed
+Feb 1sh, 1975 is Sat
+Mar 1sh, 1975 is Sat
+Apr 1sh, 1975 is Tue
+May 1sh, 1975 is Thu
+Jun 1sh, 1975 is Sun
+Jul 1sh, 1975 is Tue
+Aug 1sh, 1975 is Fri
+Sep 1sh, 1975 is Mon
+Oct 1sh, 1975 is Wed
+Nov 1sh, 1975 is Sat
+Dec 1sh, 1975 is Mon
+Jan 1sh, 1976 is Thu
+Feb 1sh, 1976 l is Sun
+Mar 1sh, 1976 l is Mon
+Apr 1sh, 1976 l is Thu
+May 1sh, 1976 l is Sat
+Jun 1sh, 1976 l is Tue
+Jul 1sh, 1976 l is Thu
+Aug 1sh, 1976 l is Sun
+Sep 1sh, 1976 l is Wed
+Oct 1sh, 1976 l is Fri
+Nov 1sh, 1976 l is Mon
+Dec 1sh, 1976 l is Wed
+Jan 1sh, 1977 l is Sat
+Feb 1sh, 1977 is Tue
+Mar 1sh, 1977 is Tue
+Apr 1sh, 1977 is Fri
+May 1sh, 1977 is Sun
+Jun 1sh, 1977 is Wed
+Jul 1sh, 1977 is Fri
+Aug 1sh, 1977 is Mon
+Sep 1sh, 1977 is Thu
+Oct 1sh, 1977 is Sat
+Nov 1sh, 1977 is Tue
+Dec 1sh, 1977 is Thu
+Jan 1sh, 1978 is Sun
+Feb 1sh, 1978 is Wed
+Mar 1sh, 1978 is Wed
+Apr 1sh, 1978 is Sat
+May 1sh, 1978 is Mon
+Jun 1sh, 1978 is Thu
+Jul 1sh, 1978 is Sat
+Aug 1sh, 1978 is Tue
+Sep 1sh, 1978 is Fri
+Oct 1sh, 1978 is Sun
+Nov 1sh, 1978 is Wed
+Dec 1sh, 1978 is Fri
+Jan 1sh, 1979 is Mon
+Feb 1sh, 1979 is Thu
+Mar 1sh, 1979 is Thu
+Apr 1sh, 1979 is Sun
+May 1sh, 1979 is Tue
+Jun 1sh, 1979 is Fri
+Jul 1sh, 1979 is Sun
+Aug 1sh, 1979 is Wed
+Sep 1sh, 1979 is Sat
+Oct 1sh, 1979 is Mon
+Nov 1sh, 1979 is Thu
+Dec 1sh, 1979 is Sat
+Jan 1sh, 1980 is Tue
+Feb 1sh, 1980 l is Fri
+Mar 1sh, 1980 l is Sat
+Apr 1sh, 1980 l is Tue
+May 1sh, 1980 l is Thu
+Jun 1sh, 1980 l is Sun
+Jul 1sh, 1980 l is Tue
+Aug 1sh, 1980 l is Fri
+Sep 1sh, 1980 l is Mon
+Oct 1sh, 1980 l is Wed
+Nov 1sh, 1980 l is Sat
+Dec 1sh, 1980 l is Mon
+Jan 1sh, 1981 l is Thu
+Feb 1sh, 1981 is Sun
+Mar 1sh, 1981 is Sun
+Apr 1sh, 1981 is Wed
+May 1sh, 1981 is Fri
+Jun 1sh, 1981 is Mon
+Jul 1sh, 1981 is Wed
+Aug 1sh, 1981 is Sat
+Sep 1sh, 1981 is Tue
+Oct 1sh, 1981 is Thu
+Nov 1sh, 1981 is Sun
+Dec 1sh, 1981 is Tue
+Jan 1sh, 1982 is Fri
+Feb 1sh, 1982 is Mon
+Mar 1sh, 1982 is Mon
+Apr 1sh, 1982 is Thu
+May 1sh, 1982 is Sat
+Jun 1sh, 1982 is Tue
+Jul 1sh, 1982 is Thu
+Aug 1sh, 1982 is Sun
+Sep 1sh, 1982 is Wed
+Oct 1sh, 1982 is Fri
+Nov 1sh, 1982 is Mon
+Dec 1sh, 1982 is Wed
+Jan 1sh, 1983 is Sat
+Feb 1sh, 1983 is Tue
+Mar 1sh, 1983 is Tue
+Apr 1sh, 1983 is Fri
+May 1sh, 1983 is Sun
+Jun 1sh, 1983 is Wed
+Jul 1sh, 1983 is Fri
+Aug 1sh, 1983 is Mon
+Sep 1sh, 1983 is Thu
+Oct 1sh, 1983 is Sat
+Nov 1sh, 1983 is Tue
+Dec 1sh, 1983 is Thu
+Jan 1sh, 1984 is Sun
+Feb 1sh, 1984 l is Wed
+Mar 1sh, 1984 l is Thu
+Apr 1sh, 1984 l is Sun
+May 1sh, 1984 l is Tue
+Jun 1sh, 1984 l is Fri
+Jul 1sh, 1984 l is Sun
+Aug 1sh, 1984 l is Wed
+Sep 1sh, 1984 l is Sat
+Oct 1sh, 1984 l is Mon
+Nov 1sh, 1984 l is Thu
+Dec 1sh, 1984 l is Sat
+Jan 1sh, 1985 l is Tue
+Feb 1sh, 1985 is Fri
+Mar 1sh, 1985 is Fri
+Apr 1sh, 1985 is Mon
+May 1sh, 1985 is Wed
+Jun 1sh, 1985 is Sat
+Jul 1sh, 1985 is Mon
+Aug 1sh, 1985 is Thu
+Sep 1sh, 1985 is Sun
+Oct 1sh, 1985 is Tue
+Nov 1sh, 1985 is Fri
+Dec 1sh, 1985 is Sun
+Jan 1sh, 1986 is Wed
+Feb 1sh, 1986 is Sat
+Mar 1sh, 1986 is Sat
+Apr 1sh, 1986 is Tue
+May 1sh, 1986 is Thu
+Jun 1sh, 1986 is Sun
+Jul 1sh, 1986 is Tue
+Aug 1sh, 1986 is Fri
+Sep 1sh, 1986 is Mon
+Oct 1sh, 1986 is Wed
+Nov 1sh, 1986 is Sat
+Dec 1sh, 1986 is Mon
+Jan 1sh, 1987 is Thu
+Feb 1sh, 1987 is Sun
+Mar 1sh, 1987 is Sun
+Apr 1sh, 1987 is Wed
+May 1sh, 1987 is Fri
+Jun 1sh, 1987 is Mon
+Jul 1sh, 1987 is Wed
+Aug 1sh, 1987 is Sat
+Sep 1sh, 1987 is Tue
+Oct 1sh, 1987 is Thu
+Nov 1sh, 1987 is Sun
+Dec 1sh, 1987 is Tue
+Jan 1sh, 1988 is Fri
+Feb 1sh, 1988 l is Mon
+Mar 1sh, 1988 l is Tue
+Apr 1sh, 1988 l is Fri
+May 1sh, 1988 l is Sun
+Jun 1sh, 1988 l is Wed
+Jul 1sh, 1988 l is Fri
+Aug 1sh, 1988 l is Mon
+Sep 1sh, 1988 l is Thu
+Oct 1sh, 1988 l is Sat
+Nov 1sh, 1988 l is Tue
+Dec 1sh, 1988 l is Thu
+Jan 1sh, 1989 l is Sun
+Feb 1sh, 1989 is Wed
+Mar 1sh, 1989 is Wed
+Apr 1sh, 1989 is Sat
+May 1sh, 1989 is Mon
+Jun 1sh, 1989 is Thu
+Jul 1sh, 1989 is Sat
+Aug 1sh, 1989 is Tue
+Sep 1sh, 1989 is Fri
+Oct 1sh, 1989 is Sun
+Nov 1sh, 1989 is Wed
+Dec 1sh, 1989 is Fri
+Jan 1sh, 1990 is Mon
+Feb 1sh, 1990 is Thu
+Mar 1sh, 1990 is Thu
+Apr 1sh, 1990 is Sun
+May 1sh, 1990 is Tue
+Jun 1sh, 1990 is Fri
+Jul 1sh, 1990 is Sun
+Aug 1sh, 1990 is Wed
+Sep 1sh, 1990 is Sat
+Oct 1sh, 1990 is Mon
+Nov 1sh, 1990 is Thu
+Dec 1sh, 1990 is Sat
+Jan 1sh, 1991 is Tue
+Feb 1sh, 1991 is Fri
+Mar 1sh, 1991 is Fri
+Apr 1sh, 1991 is Mon
+May 1sh, 1991 is Wed
+Jun 1sh, 1991 is Sat
+Jul 1sh, 1991 is Mon
+Aug 1sh, 1991 is Thu
+Sep 1sh, 1991 is Sun
+Oct 1sh, 1991 is Tue
+Nov 1sh, 1991 is Fri
+Dec 1sh, 1991 is Sun
+Jan 1sh, 1992 is Wed
+Feb 1sh, 1992 l is Sat
+Mar 1sh, 1992 l is Sun
+Apr 1sh, 1992 l is Wed
+May 1sh, 1992 l is Fri
+Jun 1sh, 1992 l is Mon
+Jul 1sh, 1992 l is Wed
+Aug 1sh, 1992 l is Sat
+Sep 1sh, 1992 l is Tue
+Oct 1sh, 1992 l is Thu
+Nov 1sh, 1992 l is Sun
+Dec 1sh, 1992 l is Tue
+Jan 1sh, 1993 l is Fri
+Feb 1sh, 1993 is Mon
+Mar 1sh, 1993 is Mon
+Apr 1sh, 1993 is Thu
+May 1sh, 1993 is Sat
+Jun 1sh, 1993 is Tue
+Jul 1sh, 1993 is Thu
+Aug 1sh, 1993 is Sun
+Sep 1sh, 1993 is Wed
+Oct 1sh, 1993 is Fri
+Nov 1sh, 1993 is Mon
+Dec 1sh, 1993 is Wed
+Jan 1sh, 1994 is Sat
+Feb 1sh, 1994 is Tue
+Mar 1sh, 1994 is Tue
+Apr 1sh, 1994 is Fri
+May 1sh, 1994 is Sun
+Jun 1sh, 1994 is Wed
+Jul 1sh, 1994 is Fri
+Aug 1sh, 1994 is Mon
+Sep 1sh, 1994 is Thu
+Oct 1sh, 1994 is Sat
+Nov 1sh, 1994 is Tue
+Dec 1sh, 1994 is Thu
+Jan 1sh, 1995 is Sun
+Feb 1sh, 1995 is Wed
+Mar 1sh, 1995 is Wed
+Apr 1sh, 1995 is Sat
+May 1sh, 1995 is Mon
+Jun 1sh, 1995 is Thu
+Jul 1sh, 1995 is Sat
+Aug 1sh, 1995 is Tue
+Sep 1sh, 1995 is Fri
+Oct 1sh, 1995 is Sun
+Nov 1sh, 1995 is Wed
+Dec 1sh, 1995 is Fri
+Jan 1sh, 1996 is Mon
+Feb 1sh, 1996 l is Thu
+Mar 1sh, 1996 l is Fri
+Apr 1sh, 1996 l is Mon
+May 1sh, 1996 l is Wed
+Jun 1sh, 1996 l is Sat
+Jul 1sh, 1996 l is Mon
+Aug 1sh, 1996 l is Thu
+Sep 1sh, 1996 l is Sun
+Oct 1sh, 1996 l is Tue
+Nov 1sh, 1996 l is Fri
+Dec 1sh, 1996 l is Sun
+Jan 1sh, 1997 l is Wed
+Feb 1sh, 1997 is Sat
+Mar 1sh, 1997 is Sat
+Apr 1sh, 1997 is Tue
+May 1sh, 1997 is Thu
+Jun 1sh, 1997 is Sun
+Jul 1sh, 1997 is Tue
+Aug 1sh, 1997 is Fri
+Sep 1sh, 1997 is Mon
+Oct 1sh, 1997 is Wed
+Nov 1sh, 1997 is Sat
+Dec 1sh, 1997 is Mon
+Jan 1sh, 1998 is Thu
+Feb 1sh, 1998 is Sun
+Mar 1sh, 1998 is Sun
+Apr 1sh, 1998 is Wed
+May 1sh, 1998 is Fri
+Jun 1sh, 1998 is Mon
+Jul 1sh, 1998 is Wed
+Aug 1sh, 1998 is Sat
+Sep 1sh, 1998 is Tue
+Oct 1sh, 1998 is Thu
+Nov 1sh, 1998 is Sun
+Dec 1sh, 1998 is Tue
+Jan 1sh, 1999 is Fri
+Feb 1sh, 1999 is Mon
+Mar 1sh, 1999 is Mon
+Apr 1sh, 1999 is Thu
+May 1sh, 1999 is Sat
+Jun 1sh, 1999 is Tue
+Jul 1sh, 1999 is Thu
+Aug 1sh, 1999 is Sun
+Sep 1sh, 1999 is Wed
+Oct 1sh, 1999 is Fri
+Nov 1sh, 1999 is Mon
+Dec 1sh, 1999 is Wed
+Jan 1sh, 2000 is Sat
+Feb 1sh, 2000 l is Tue
+Mar 1sh, 2000 l is Wed
+Apr 1sh, 2000 l is Sat
+May 1sh, 2000 l is Mon
+Jun 1sh, 2000 l is Thu
+Jul 1sh, 2000 l is Sat
+Aug 1sh, 2000 l is Tue
+Sep 1sh, 2000 l is Fri
+Oct 1sh, 2000 l is Sun
+Nov 1sh, 2000 l is Wed
+Dec 1sh, 2000 l is Fri
+Jan 1sh, 2001 l is Mon
+171

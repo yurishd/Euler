@@ -1,0 +1,19 @@
+#include <iostream>
+#include <fstream>
+int main(int argc, char *argv[])
+{
+  long thePrime = -1;
+  long theCount = 0;
+  set<long> primes;
+  long tmp;
+  ifstream is("../primes_1mil.txt");
+  is >> tmp;
+  while (is) {
+    primes.insert(tmp);
+    is >> tmp;
+  }
+  primes.insert(tmp);
+
+  cout << thePrime << ":" << theCount << endl;
+  return 0;
+}
